@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "G": { "item": "minecraft:green_wool" },
+    "B": { "item": "minecraft:black_wool" }
+  },
+  "pattern": [
+    "B B",
+    "GGG",
+    "GGG"
+  ],
+  "result": { "id": "greenlantern:lantern_jacket", "count": 1 }
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "greenlantern",
+  "version": "${version}",
+  "name": "Green Lantern",
+  "description": "Take up the power ring. Build hard-light constructs, fire energy bolts, scan for clues, and take to the sky. Inspired by HBO's Lanterns.",
+  "authors": ["You"],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/greenlantern/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.greenlantern.GreenLanternMod"],
+    "client": ["com.greenlantern.client.GreenLanternClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

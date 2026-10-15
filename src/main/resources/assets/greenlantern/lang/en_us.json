@@ -1,0 +1,38 @@
+{
+  "itemGroup.greenlantern": "Green Lantern",
+
+  "item.greenlantern.power_ring": "Green Lantern Power Ring",
+  "block.greenlantern.power_battery": "Power Battery",
+  "block.greenlantern.hard_light_construct": "Hard-Light Construct",
+  "item.greenlantern.lantern_mask": "Lantern Mask",
+  "item.greenlantern.lantern_jacket": "Lantern Suit Jacket",
+  "item.greenlantern.lantern_trousers": "Lantern Suit Trousers",
+  "item.greenlantern.lantern_boots": "Lantern Boots",
+
+  "mode.greenlantern.bridge": "Hard-Light Bridge",
+  "mode.greenlantern.wall": "Hard-Light Wall",
+  "mode.greenlantern.shelter": "Hard-Light Shelter",
+  "mode.greenlantern.bolt": "Energy Bolt",
+  "mode.greenlantern.shield": "Ring Shield",
+  "mode.greenlantern.restore": "Restoration",
+  "mode.greenlantern.scan": "Ring Scan",
+  "mode.greenlantern.flight": "Flight",
+
+  "message.greenlantern.mode_selected": "Mode: %s",
+  "message.greenlantern.cast": "%s  |  Charge: %s%%",
+  "message.greenlantern.depleted": "The ring is out of charge. Find a Power Battery.",
+  "message.greenlantern.nothing_happened": "No room for a construct here.",
+  "message.greenlantern.flight_on": "Flight online. Double-tap jump to take off.",
+  "message.greenlantern.flight_off": "Flight disengaged.",
+  "message.greenlantern.scan_result": "Ring scan: %s life signs detected.",
+  "message.greenlantern.recharged": "The Battery recharges %s ring(s).",
+  "message.greenlantern.already_full": "Your ring is already fully charged.",
+  "message.greenlantern.no_ring": "The Battery hums, waiting for a ring.",
+
+  "tooltip.greenlantern.charge": "Charge: %s / %s",
+  "tooltip.greenlantern.mode": "Mode: %s",
+  "tooltip.greenlantern.flight_active": "Flight active",
+  "tooltip.greenlantern.hint_use": "Right-click: use the selected mode",
+  "tooltip.greenlantern.hint_cycle": "Sneak + right-click: change mode",
+  "tooltip.greenlantern.hint_battery": "Right-click a Power Battery to recharge"
+}

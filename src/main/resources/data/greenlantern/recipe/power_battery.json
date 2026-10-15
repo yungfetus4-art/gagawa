@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": { "item": "minecraft:iron_ingot" },
+    "E": { "item": "minecraft:emerald" },
+    "L": { "item": "minecraft:lantern" }
+  },
+  "pattern": [
+    "III",
+    "ELE",
+    "III"
+  ],
+  "result": { "id": "greenlantern:power_battery", "count": 1 }
+}

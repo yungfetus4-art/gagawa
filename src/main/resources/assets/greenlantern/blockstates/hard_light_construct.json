@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "fading=false": { "model": "greenlantern:block/hard_light_construct" },
+    "fading=true": { "model": "greenlantern:block/hard_light_construct_fading" }
+  }
+}
